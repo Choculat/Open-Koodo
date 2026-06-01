@@ -1,7 +1,12 @@
 > [!CAUTION]
 > :rotating_light: **Free and Open-Source Android is under threat.** Google will turn Android into a locked-down platform, restricting your essential freedom to install apps of your choice. Make your voice heard – [**Keep Android Open**](https://keepandroidopen.org/).
 
-Minimal app to see basic info like remaining minutes and texts from a Koodo prepaid plan
-Support SMS 2FA
+## Unofficial Koodo Prepaid self-serve app for Android
 
-Not endorsed by Koodo Mobile
+- Native login with email, password, and SMS 2FA
+- View plan name, minutes and texts used/remaining
+- Renewal date
+- Swipe to refresh
+- Material You dynamic color (Android 12+)
+
+**Not endorsed by Koodo Mobile**
